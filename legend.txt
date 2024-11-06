@@ -1,0 +1,4 @@
+segment_names_to_labels = [("Implant", 0), ("Prosthetic restoration", 1), ("Obturation", 2), ("Endodontic treatment", 3), ("Orthodontic device", 12), ("Surgical device", 13), ## Low risk
+                           ("Carious lesion", 4), ("Bone resorbtion", 5), ("Impacted tooth", 6), ("Apical surgery", 10), ## Medium risk
+                           ("Apical periodontitis", 7), ("Root fragment", 8), ("Furcation lesion", 9), ("Root resorption", 11)## High risk                           
+                           ]
