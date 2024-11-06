@@ -1,6 +1,6 @@
-train: D:\LeziuniDentare\yolo_dataset_14_classes\train\images
-val: D:\LeziuniDentare\yolo_dataset_14_classes\valid\images
-test: D:\LeziuniDentare\yolo_dataset_14_classes\test\images
+train: \train\images
+val: \valid\images
+test: \test\images
 
 nc: 14
 names: ['IMP', 'PRR', 'OBT', 'END', 'CAR', 'BON', 'IMT', 'API', 'ROT', 'FUR', 'APS', 'ROR', 'ORD', 'SRD']
