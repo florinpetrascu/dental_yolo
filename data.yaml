@@ -1,6 +1,6 @@
-train: \train\images
-val: \valid\images
-test: \test\images
+train: /content/dental_yolo/train/images
+val: /content/dental_yolo/valid/images
+test: /content/dental_yolo/test/images
 
 nc: 14
 names: ['IMP', 'PRR', 'OBT', 'END', 'CAR', 'BON', 'IMT', 'API', 'ROT', 'FUR', 'APS', 'ROR', 'ORD', 'SRD']
